@@ -10,7 +10,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(name)
 
 # Your Telegram Bot Token
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+TOKEN = '7729001656:AAG448WDSank8eO1lTP46o7y0z07G-_rgh0'
 
 # Your social media links and API tokens
 SOCIAL_MEDIA_LINKS = {
